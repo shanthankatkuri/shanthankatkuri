@@ -1,4 +1,4 @@
-
+![logo](https://github.com/shanthankatkuri/shanthankatkuri/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shanthan</h1>
 <h3 align="center">A passionate developer | Tech Enthusiast | Student</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVkaXQ2cTYweXIxcHBrOGM1cnkzYnVzamIyZDlzdWQ0MnVoNWZrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
