@@ -21,8 +21,8 @@
 <a href="https://kaggle.com/shanthanreddykatkuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shanthanreddykatkuri" height="30" width="40" /></a>
 <a href="https://instagram.com/shanthan_katkuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanthan_katkuri" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shanthanreddyk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shanthanreddyk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/shanthanreddy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shanthanreddy2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shanthan_katkuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shanthan_katkuri/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shanthanreddy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanthanreddy2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shanthan_katkuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shanthan_katkuri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
